@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on a Text-Mining / Data-Visualisation project
-- 🌱 Initially from a Java background, I’m currently learning Python everyday! I love it!
+- 🌱 Initially from a **Java** background, I’m currently learning Python everyday! I love it!
 - ⚡ Fun fact: Tech Enthusiast & Man Utd Supporter 😄
 
 <!-- - 👯 I’m looking to collaborate on ...
