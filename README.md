@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... -->
 
-### Languages & Tools
+### Languages & Tools 🔧🔨
 ------------------------------------------------------------------------------------------
 IDEs  |                 | Web Servers | | DBs | | Text Editor
 |:---:|           :---: | :---: | :---: | :---: |:---:|:---:|
