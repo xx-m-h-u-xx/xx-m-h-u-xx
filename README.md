@@ -31,12 +31,13 @@ Matlab
 
 ### Technical Skills 💻
 ------------------------------------------------------------------------------------------
-  * High-Level Programming
+  * High-Level Programming:
     * Python (Self-learning - Exp: Less than 1 Year | _Covered the concepts pretty quick than learning Java in Uni !_)
     * Java (Exp: Less than 2 years
     * C# (Familarised with some C/C++ concepts, not as proficent)
-  * Scripting Language:
+  * Scripting Languages:
     * HTML 
     * CSS
     * SQL
     * PHP   
+    * Bash (Unix/Linux Shell)
