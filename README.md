@@ -1,4 +1,4 @@
-# Hi there 👋
+# Well Hello there 👋 Greeting to you, Earthling
 
 <!--
 **xx-m-h-u-xx/xx-m-h-u-xx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,8 +6,9 @@
 Here are some ideas to get you started: 
 -->
 - 📌 IT-enthusiast & Man Utd Supporter 😛
-- 🔭 I’m currently working on a Data-Visualisation project... which you can see here [Generating Infographics from Text](https://github.com/xx-m-h-u-xx/Data-Analysis-Visualisation)
+- 🔭 I’m currently working on a Data-Visualisation project... which you can see here: [*Generating Infographics from Text*](https://github.com/xx-m-h-u-xx/Data-Analysis-Visualisation)
 - 👉 Initially from a **Java** background, I’m currently learning Python everyday! I love it!
+- ✨ Interest alies in UI/UX Design, Machine Learning (inc. Data Science).. keeping up-to-date trends in #CloudComputing #CyberSecurity 
 - ⚡ Fun fact: Multi-lingual, Speaking English, Bengali & Arabic
 
 <!-- - 👯 I’m looking to collaborate on ...
