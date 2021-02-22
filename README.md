@@ -6,7 +6,8 @@
 Here are some ideas to get you started: 
 -->
 -  ⭐  An IT-enthusiast & Man Utd Supporter 😛
--  📌 I’m currently working on a Data-Visualisation project... which you can see here: [*Generating Infographics from Text*](https://github.com/xx-m-h-u-xx/Data-Analysis-Visualisation)
+-  📌 I’m currently working on a Data-Visualisation project... 
+  -  ... which you can see here: [*Generating Infographics from Text*](https://github.com/xx-m-h-u-xx/Data-Analysis-Visualisation)
   - 👉 Initially from a **Java** background..
     - ✒️ I’m currently learning Python everyday! I love it!
   - 📢  Interest alies in UI/UX Design, Machine Learning (inc. Data Science)
