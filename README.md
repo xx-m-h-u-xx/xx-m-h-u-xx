@@ -29,7 +29,7 @@ Android Studio     |    | XAMPP (Cross-Platform Web Server Stack Package) | |SQL
 Eclipse
 Matlab
 
-* Other skill: Microsoft Word / PowerPoint / Excel / 
+* Other skill: Microsoft Word / PowerPoint / Excel
 
 ### Technical Skills 💻
 ------------------------------------------------------------------------------------------
