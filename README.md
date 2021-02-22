@@ -34,7 +34,7 @@ Matlab
 ### Technical Skills 💻
 ------------------------------------------------------------------------------------------
 * High-Level Programming:
-   * Python (Self-learning - Exp: Less than 1 Year | _Covered the concepts pretty quick than learning Java in Uni !_) ![](https://www.python.org/static/img/python-logo@2x.png)
+   * Python (Self-learning - Exp: Less than 1 Year | _Covered the concepts pretty quick than learning Java in Uni !_) 
    * Java (Exp: Less than 2 years
    * C# (Exp: 5 months... Familarised with some C/C++ concepts)
 * Scripting Languages:
