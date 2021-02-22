@@ -30,7 +30,6 @@ Matlab
 
 * Other skill: Microsoft Word / PowerPoint / Excel / 
 
-
 ### Technical Skills 💻
 ------------------------------------------------------------------------------------------
 * High-Level Programming:
@@ -51,3 +50,7 @@ Matlab
   * Networking Fundamentals
   * Security Foundations in Encryption/Cryptography 
   * SDLC Methodologies
+ ------------------------------------------------------------------------------------------
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xx-m-h-u-xx&show_icons=true&theme=slateorange)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xx-m-h-u-xx&show_icons=true&theme=slateorange)
