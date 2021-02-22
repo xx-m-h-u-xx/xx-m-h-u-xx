@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started: 
 -->
-
-- 🔭 I’m currently working on a Text-Mining / Data-Visualisation project
+- 📌 IT-enthusiast & Man Utd Supporter 😛
+- 🔭 I’m currently working on a Data-Visualisation project... which you can see here
 - 🌱 Initially from a **Java** background, I’m currently learning Python everyday! I love it!
-- ⚡ Fun fact: Tech Enthusiast & Man Utd Supporter 😄
+- ⚡ Fun fact: Multi-lingual, Speaking English, Bengali & Arabic
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 ### Languages & Tools 🔧🔨
 ------------------------------------------------------------------------------------------
+- Below are the different tools and technologies I'm familar with...
 IDEs  |                 | Web Servers | | DBs | | Text Editor
 |:---:|           :---: | :---: | :---: | :---: |:---:|:---:|
 Visual Studio Code |    | Flask (WSGI Micro Web Application Framework)    | | Oracle DB || Notepad ++
@@ -26,7 +27,7 @@ Android Studio     |    | XAMPP (Cross-Platform Web Server Stack Package) | |SQL
 Eclipse
 Matlab
 
-* Other skill: Microsoft Word / PowerPoint / Excel
+* Other skill: Microsoft Word / PowerPoint / Excel / 
 
 
 ### Technical Skills 💻
@@ -41,3 +42,10 @@ Matlab
     * SQL
     * PHP   
     * Bash (Unix/Linux Shell)
+* Other skills:
+  * Data Structure & Algorithm Essentials
+  * Object Oriented Design: Abstraction; Encapsulation; Inheritance; Polymorphism
+  * Basics of Testing
+  * Networking fundamentals
+  * SDLC Methodologies
+
