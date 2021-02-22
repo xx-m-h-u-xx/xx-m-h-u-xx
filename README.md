@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 📌 IT-enthusiast & Man Utd Supporter 😛
 - 🔭 I’m currently working on a Data-Visualisation project... which you can see here
-- 🌱 Initially from a **Java** background, I’m currently learning Python everyday! I love it!
+- 👉 Initially from a **Java** background, I’m currently learning Python everyday! I love it!
 - ⚡ Fun fact: Multi-lingual, Speaking English, Bengali & Arabic
 
 <!-- - 👯 I’m looking to collaborate on ...
@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ### Languages & Tools 🔧🔨
 ------------------------------------------------------------------------------------------
 - Below are the different tools and technologies I'm familar with...
+
 IDEs  |                 | Web Servers | | DBs | | Text Editor
 |:---:|           :---: | :---: | :---: | :---: |:---:|:---:|
 Visual Studio Code |    | Flask (WSGI Micro Web Application Framework)    | | Oracle DB || Notepad ++
@@ -32,20 +33,21 @@ Matlab
 
 ### Technical Skills 💻
 ------------------------------------------------------------------------------------------
-  * High-Level Programming:
-    * Python (Self-learning - Exp: Less than 1 Year | _Covered the concepts pretty quick than learning Java in Uni !_)
-    * Java (Exp: Less than 2 years
-    * C# (Familarised with some C/C++ concepts, not as proficent)
-  * Scripting Languages:
-    * HTML 
-    * CSS
-    * SQL
-    * PHP   
-    * Bash (Unix/Linux Shell)
+* High-Level Programming:
+   * Python (Self-learning - Exp: Less than 1 Year | _Covered the concepts pretty quick than learning Java in Uni !_)
+   * Java (Exp: Less than 2 years
+   * C# (Exp: 5 months... Familarised with some C/C++ concepts)
+* Scripting Languages:
+   * HTML 
+   * CSS
+   * SQL
+   * PHP   
+   * Bash (Unix/Linux Shell)
+
 * Other skills:
   * Data Structure & Algorithm Essentials
   * Object Oriented Design: Abstraction; Encapsulation; Inheritance; Polymorphism
   * Basics of Testing
-  * Networking fundamentals
+  * Networking Fundamentals
+  * Security Foundations in Encryption/Cryptography 
   * SDLC Methodologies
-
