@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started: 
 -->
-- 📌 An IT-enthusiast & Man Utd Supporter 😛
-- 🔭 I’m currently working on a Data-Visualisation project... which you can see here: [*Generating Infographics from Text*](https://github.com/xx-m-h-u-xx/Data-Analysis-Visualisation)
-- 👉 Initially from a **Java** background, I’m currently learning Python everyday! I love it!
-- ✨ Interest alies in UI/UX Design, Machine Learning (inc. Data Science) | Keeping up-to-date trends in #CloudComputing #CyberSecurity 
-- ⚡ Fun fact: Multi-lingual, Speaking English, Bengali & Arabic
+-  ⭐  An IT-enthusiast & Man Utd Supporter 😛
+-  📌 I’m currently working on a Data-Visualisation project... which you can see here: [*Generating Infographics from Text*](https://github.com/xx-m-h-u-xx/Data-Analysis-Visualisation)
+  - 👉 Initially from a **Java** background, I’m currently learning Python everyday! I love it!
+  - 📢  Interest alies in UI/UX Design, Machine Learning (inc. Data Science) | Keeping up-to-date trends in #CloudComputing #CyberSecurity 
+  - ⚡ Fun fact: Multi-lingual, Speaking English, Bengali & Arabic
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -34,7 +34,7 @@ Matlab
 ### Technical Skills 💻
 ------------------------------------------------------------------------------------------
 * High-Level Programming:
-   * Python (Self-learning - Exp: Less than 1 Year | _Covered the concepts pretty quick than learning Java in Uni !_)
+   * Python (Self-learning - Exp: Less than 1 Year | _Covered the concepts pretty quick than learning Java in Uni !_) ![](https://www.python.org/static/img/python-logo@2x.png)
    * Java (Exp: Less than 2 years
    * C# (Exp: 5 months... Familarised with some C/C++ concepts)
 * Scripting Languages:
