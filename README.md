@@ -12,7 +12,7 @@ Here are some ideas to get you started:
     - ✒️ I’m currently learning Python everyday! I love it!
   - 📢  Interest alies in UI/UX Design, Machine Learning (inc. Data Science)
     - :chart_with_upwards_trend: Keeping up-to-date trends in #CloudComputing #CyberSecurity 
-  - ⚡ Fun fact: Multi-lingual, Speaking English, Bengali & Arabic
+  <!-- - ⚡ Fun fact: Multi-lingual, Speaking English, Bengali & Arabic -->
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
