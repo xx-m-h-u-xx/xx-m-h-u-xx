@@ -29,8 +29,8 @@ IDEs  |                 | Web Servers | | DBs | | Text Editor
 Visual Studio Code |    | Flask (WSGI Micro Web Application Framework)    | | Oracle DB || Notepad ++
 Visual Studio      |    | Apache HTTP Server (Compliant Web Server)       | | MySQL RDMS ||
 Android Studio     |    | XAMPP (Cross-Platform Web Server Stack Package) | |SQLite ||
-Eclipse
-Matlab
+Eclipse            |    | WSGI Servers
+Matlab             |    | Servlets / WebSocket
 
 * Other skill: Microsoft Word / PowerPoint / Excel
 
