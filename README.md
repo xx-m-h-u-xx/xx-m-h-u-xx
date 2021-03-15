@@ -1,4 +1,4 @@
-# Well Hello there 👋 Greeting to you, Earthling
+# 𝕎𝕖𝕝𝕝 ℍ𝕖𝕝𝕝𝕠 𝕥𝕙𝕖𝕣𝕖 👋 𝔾𝕣𝕖𝕖𝕥𝕚𝕟𝕘 𝕥𝕠 𝕪𝕠𝕦, 𝔼𝕒𝕣𝕥𝕙𝕝𝕚𝕟𝕘 
 
 <!--
 **xx-m-h-u-xx/xx-m-h-u-xx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,7 +48,7 @@ Matlab             |    | Servlets / WebSocket
    * Bash (Unix/Linux Shell)
 
 * Other skills:
-  * Data Structure & Algorithm Essentials
+  * Data Structure, Algorithms, Databases Essentials
   * Object Oriented Design: Abstraction; Encapsulation; Inheritance; Polymorphism
   * Basics of Testing
   * Networking Fundamentals
