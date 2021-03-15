@@ -41,7 +41,7 @@ Matlab             |    | Servlets / WebSocket
 ------------------------------------------------------------------------------------------
 * High-Level Programming:
    * Python (Self-learning - Exp: Less than 1 Year | _Covered the concepts pretty quick than learning Java in Uni !_) 
-   * Java (Exp: Less than 2 years
+   * Java (Exp: Less than 2 years)
    * C# (Exp: 5 months... Familarised with some C/C++ concepts)
 * Scripting Languages:
    * HTML 
