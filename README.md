@@ -22,7 +22,6 @@ Here are some ideas to get you started: -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xx-m-h-u-xx&show_icons=true&theme=slateorange)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xx-m-h-u-xx&theme=slateorange&langs_count=10&layout=compact)
 
-------------------------------------------------------------------------------------------
 ## Languages & Tools 🔧🔨
 
 - Below are the different tools and technologies I'm familar with...
@@ -69,7 +68,7 @@ Android Studio     |    | XAMPP (Cross-Platform Web Server Stack Package) | |SQL
 Eclipse            |    | WSGI Servers
 Matlab             |    | Servlets / WebSocket
 
-------------------------------------------------------------------------------------------
+
 ## Technical Skills 💻
 
 * High-Level Programming:
