@@ -1,5 +1,4 @@
 # Well, Hello there! 👋 Greeting to you, Earthling
-![](https://komarev.com/ghpvc/?username=xx-m-h-u-xx&color=lightgrey&style=flat-square&label=PROFILE+VIEWS)
 
 <!--
 **xx-m-h-u-xx/xx-m-h-u-xx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,22 +30,21 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellowgreen)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellowgreen)
 
+![](https://img.shields.io/badge/IDE-Visual_Studio_Code-informational?logo=visual-studio-code&logoColor=white&color=blue)
+![](https://img.shields.io/badge/IDE-Visual_Studio-informational?logo=visual-studio&logoColor=white&color=purple)
+![](https://img.shields.io/badge/IDE-Android_Studio-informational?logo=android-studio&logoColor=white&color=green)
+![](https://img.shields.io/badge/IDE-Eclipse-informational?logo=eclipse-ide&logoColor=white&color=lightgrey)
+![](https://img.shields.io/badge/IDE-Matlab-informational?logo=matrix&logoColor=white&color=blue)
 
-![](https://img.shields.io/badge/IDE-Visual_Studio_Code-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
-![](https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=purple)
-![](https://img.shields.io/badge/IDE-Android_Studio-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green)
-![](https://img.shields.io/badge/IDE-Eclipse-informational?style=?logo=visual-studio-code>&logoColor=white&color=lightgrey)
-![](https://img.shields.io/badge/IDE-Matlab-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Python-informational?logo=python&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Code-Java-informational?logo=java&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Code-SQL-informational?logo=sqlite&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Code-HTML-informational?logo=html5&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Code-CSS-informational?logo=css3&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Code-JS-informational?logo=javascript&logoColor=white&color=orange)
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Code-JS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
-
-![](https://img.shields.io/badge/DBs-MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
-![](https://img.shields.io/badge/DBs-Oracle_DB-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
+![](https://img.shields.io/badge/DBs-MySQL-informational?logo=mysql&logoColor=white&color=red)
+![](https://img.shields.io/badge/DBs-Oracle_DB-informational?logo=oracle&logoColor=white&color=red)
 
 ![](https://img.shields.io/badge/DataVis-Matplotlib-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green)
 ![](https://img.shields.io/badge/DataVis-Plotly-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green)
