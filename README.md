@@ -1,4 +1,5 @@
-# 𝕎𝕖𝕝𝕝 ℍ𝕖𝕝𝕝𝕠 𝕥𝕙𝕖𝕣𝕖 👋 𝔾𝕣𝕖𝕖𝕥𝕚𝕟𝕘 𝕥𝕠 𝕪𝕠𝕦, 𝔼𝕒𝕣𝕥𝕙𝕝𝕚𝕟𝕘 
+# Well, Hello there! 👋 Greeting to you, Earthling
+![](https://komarev.com/ghpvc/?username=xx-m-h-u-xx&color=lightgrey&style=flat-square&label=PROFILE+VIEWS)
 
 <!--
 **xx-m-h-u-xx/xx-m-h-u-xx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,6 +28,35 @@ Here are some ideas to get you started:
 ------------------------------------------------------------------------------------------
 - Below are the different tools and technologies I'm familar with...
 
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellowgreen)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellowgreen)
+
+
+![](https://img.shields.io/badge/IDE-Visual_Studio_Code-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
+![](https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=purple)
+![](https://img.shields.io/badge/IDE-Android_Studio-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green)
+![](https://img.shields.io/badge/IDE-Eclipse-informational?style=?logo=visual-studio-code>&logoColor=white&color=lightgrey)
+![](https://img.shields.io/badge/IDE-Matlab-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Code-JS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
+
+![](https://img.shields.io/badge/DBs-MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
+![](https://img.shields.io/badge/DBs-Oracle_DB-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
+
+![](https://img.shields.io/badge/DataVis-Matplotlib-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green)
+![](https://img.shields.io/badge/DataVis-Plotly-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green)
+
+![](https://img.shields.io/badge/MS-PowerPoint-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
+![](https://img.shields.io/badge/MS-Word-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)
+![](https://img.shields.io/badge/MS-Excel-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=brightgreen)
+
+
+
 IDEs  |                 | Web Servers | | DBs | | Text Editor
 |:---:|           :---: | :---: | :---: | :---: |:---:|:---:|
 Visual Studio Code |    | Flask (WSGI Micro Web Application Framework)    | | Oracle DB || Notepad ++
@@ -34,8 +64,6 @@ Visual Studio      |    | Apache HTTP Server (Compliant Web Server)       | | My
 Android Studio     |    | XAMPP (Cross-Platform Web Server Stack Package) | |SQLite ||
 Eclipse            |    | WSGI Servers
 Matlab             |    | Servlets / WebSocket
-
-* Other skill: Microsoft Word / PowerPoint / Excel
 
 ### Technical Skills 💻
 ------------------------------------------------------------------------------------------
