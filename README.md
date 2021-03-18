@@ -27,14 +27,16 @@ Here are some ideas to get you started:
 ------------------------------------------------------------------------------------------
 - Below are the different tools and technologies I'm familar with...
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellowgreen)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellowgreen)
+![](https://img.shields.io/badge/Operating_System-informational?style=flat&logoColor=white&color=grey)
+![](https://img.shields.io/badge/Windows-informational?logo=windows&logoColor=white&color=yellowgreen)
+![](https://img.shields.io/badge/Linux-informational?logo=linux&logoColor=white&color=yellowgreen)
 
-![](https://img.shields.io/badge/IDE-Visual_Studio_Code-informational?logo=visual-studio-code&logoColor=white&color=blue)
-![](https://img.shields.io/badge/IDE-Visual_Studio-informational?logo=visual-studio&logoColor=white&color=purple)
-![](https://img.shields.io/badge/IDE-Android_Studio-informational?logo=android-studio&logoColor=white&color=green)
-![](https://img.shields.io/badge/IDE-Eclipse-informational?logo=eclipse-ide&logoColor=white&color=lightgrey)
-![](https://img.shields.io/badge/IDE-Matlab-informational?logo=matrix&logoColor=white&color=blue)
+![](https://img.shields.io/badge/I_D_E-informational?style=flat&logoColor=white&color=grey)
+![](https://img.shields.io/badge/Visual_Studio_Code-informational?logo=visual-studio-code&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Visual_Studio-informational?logo=visual-studio&logoColor=white&color=purple)
+![](https://img.shields.io/badge/Android_Studio-informational?logo=android-studio&logoColor=white&color=green)
+![](https://img.shields.io/badge/Eclipse-informational?logo=eclipse-ide&logoColor=white&color=lightgrey)
+![](https://img.shields.io/badge/Matlab-informational?logo=matrix&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/Code-Python-informational?logo=python&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-Java-informational?logo=java&logoColor=white&color=orange)
