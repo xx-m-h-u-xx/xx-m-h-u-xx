@@ -27,8 +27,8 @@ Here are some ideas to get you started: -->
 - Below are the different tools and technologies I'm familar with...
 
 ![](https://img.shields.io/badge/OS-informational?logoColor=white&color=grey)
-![](https://img.shields.io/badge/Windows-informational?logo=windows&logoColor=white&color=yellowgreen)
-![](https://img.shields.io/badge/Linux-informational?logo=linux&logoColor=white&color=yellowgreen)
+![](https://img.shields.io/badge/Windows-informational?logo=windows&logoColor=white&color=dodgerblue)
+![](https://img.shields.io/badge/Linux-informational?logo=linux&logoColor=white&color=lightsteelblue)
 
 ![](https://img.shields.io/badge/IDE-informational?style=flat&logoColor=white&color=grey)
 ![](https://img.shields.io/badge/Visual_Studio_Code-informational?logo=visual-studio-code&logoColor=white&color=blue)
